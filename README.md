@@ -6,7 +6,7 @@
 
 
 # Ana Maria Carvalho
-<sub>*Lead Business Intelligence*</sub>
+<sub>*Meu portfólio de Business Intelligence*</sub>
 
 
 **Background in:** 
