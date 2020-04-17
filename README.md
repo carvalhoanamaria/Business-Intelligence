@@ -18,6 +18,6 @@
 ## Artigos abordando assuntos relacionado a Business Intelligence:
 * **Descubra o que é business Intelligence e como sua estrutura é composta:** https://bit.ly/2TxUo2T
 ## Projetos:
-:
+* **Utilizando Power BI, SQL Server Integration Services (SSIS) e SQL Server Analysis Services (SSAS) para gerar insights em uma concessionária de veículos. 
 
 
